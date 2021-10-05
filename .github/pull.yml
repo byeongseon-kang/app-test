@@ -1,4 +1,4 @@
 version: "1"
 rules:                      # Array of rules
   - base: main
-    upstream: develop        # Required. Can be a branch in the same forked repo.
+    upstream: app-test        # Required. Can be a branch in the same forked repo.
